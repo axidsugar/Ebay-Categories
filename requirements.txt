@@ -1,0 +1,24 @@
+
+Requimentes for Ebay's scrapping category
+
+This file descrice which dependences was use for develop challenge
+
+===========================
+        Dependences
+===========================
+
+1. argparse
+
+Use to manage command-line params
+
+2. sqlite3
+
+Use to connect, insert and select on SQLITE Databasse.
+
+3. requests
+
+Library for HTTP Request.
+
+4.xml.etree.ElementTree
+
+Library for manage XML, use to parse HTTP response of API into XML structure.
